@@ -6,4 +6,5 @@ This repo includes the code to demonstrate:
 
 # Cite
 If you think this work helps in your project, please consider to cite:
+
 "W. Zhu, X. Ma, X. -H. Zhu, K. Ugurbil, W. Chen and X. Wu, "Denoise Functional Magnetic Resonance Imaging with Random Matrix Theory Based Principal Component Analysis," in IEEE Transactions on Biomedical Engineering, doi: 10.1109/TBME.2022.3168592."
